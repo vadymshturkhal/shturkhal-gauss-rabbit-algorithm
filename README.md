@@ -11,5 +11,5 @@ v. 6 updates:
     3. added congruences with (residues, Apery set, related zeros) as output;
 
 Note:
-    Algorithm based on Shturkhal-Gauss-Rabbit graph linearization;
-    Algorithm works with (coefficients set length) > 1 and gcd(coefficients set) = 1.
+    1. Algorithm is based on Shturkhal-Gauss-Rabbit graph linearization;
+    2. Algorithm works with (coefficients set length) > 1 and gcd(coefficients set) = 1.
