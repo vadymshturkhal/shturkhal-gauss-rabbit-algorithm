@@ -1,0 +1,12 @@
+# The "McNugget" Problem
+# Frobenius number = 43, Frobenius root = 1, Apery max = 49
+coefficients = [6, 9, 20]
+
+
+Residues, Apery set, Zeros
+0, 0, 0
+1, 49, 43
+2, 20, 14
+3, 9, 3
+4, 40, 34
+5, 29, 23

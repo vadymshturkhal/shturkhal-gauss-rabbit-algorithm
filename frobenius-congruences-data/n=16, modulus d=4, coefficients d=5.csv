@@ -1,7 +1,10 @@
+# n=16, modulus d=4, coefficients d=5
 # Frobenius number = 7909005, Frobenius root = 416, Apery max = 7918978
 coefficients = [9973, 89989, 89981, 89977, 89969, 89963, 89959, 89951, 89939, 89929, 89923, 
                 89917, 89909, 89899, 89891, 89881]
 
+
+Residues, Apery set, Zeros
 0, 0, 0
 1, 3959282, 3949309
 2, 7828807, 7818834
