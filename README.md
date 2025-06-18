@@ -17,3 +17,7 @@ Shturkhal-Gauss-Rabbit algorithm for solving Frobenius coin problem.
 ## Related problems:
 * Hamiltonian Path;
 * Travelling Salesman;
+
+# Frontier:
+* Linearization delay;
+* C-based version;
