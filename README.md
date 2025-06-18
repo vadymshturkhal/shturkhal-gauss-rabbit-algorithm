@@ -11,7 +11,7 @@ Shturkhal-Gauss-Rabbit algorithm for solving Frobenius coin problem.
 * added congruences with (residues, Apery set, related zeros) as output;
 
 ## Notes:
-* Algorithm is based on Shturkhal-Gauss-Rabbit graph linearization;
+* Algorithm is based on Shturkhal-Gauss-Rabbit graph linearization method;
 * Algorithm works with (coefficients set length) > 1 and gcd(coefficients set) = 1.
 
 ## Related problems:
