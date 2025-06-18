@@ -3,7 +3,7 @@ Shturkhal-Gauss-Rabbit algorithm for solving Frobenius coin problem.
 
 ## Shturkhal-Gauss-Rabbit algorithm v. 6 brief analysis:
 * Time complexity is the (Frobenius number) * (modulus);
-* Memory requirements of is (modulus);
+* Memory requirements is (modulus);
 
 ## v. 6 updates:
 * replaced try...except with get;
