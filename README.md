@@ -17,9 +17,9 @@
 * Memory requirements is (modulus);
 
 ## v. 6 updates:
-* replaced try...except with get;
-* replaced heap priority queue with Tim Sort priority queue;
-* added congruences with (residues, Apery set, related zeros) as output;
+* Replaced try...except with get;
+* Replaced heap priority queue with Tim Sort priority queue;
+* Added congruences with (residues, Apery set, related zeros) as output;
 
 ## Notes:
 * Algorithm works with (coefficients set length) > 1 and gcd(coefficients set) = 1;
