@@ -1,6 +1,7 @@
 ## Shturkhal-Gauss-Rabbit algorithm description:
 * Shturkhal-Gauss-Rabbit algorithm for solving Frobenius coin problem.
-* Algorithm is based on graph linearization method which is based on never-go-back approach;
+* Algorithm is based on Shturkhal-Gauss-Rabbit graph linearization method;
+* Graph linearization method is based on never-go-back approach;
 
 ## Acknowledgments:
 * Carl Friedrich Gauss;
@@ -21,7 +22,6 @@
 * added congruences with (residues, Apery set, related zeros) as output;
 
 ## Notes:
-* Algorithm is based on Shturkhal-Gauss-Rabbit graph linearization method;
 * Algorithm works with (coefficients set length) > 1 and gcd(coefficients set) = 1;
 * Time complexity (Frobenius number) * (modulus) of the solving that NP-Hard problem in general is still not enough to get Clay;
 
