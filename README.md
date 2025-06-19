@@ -37,3 +37,4 @@
 * Linearization instead of backtracking for finding an arbitrary solution;
 * Dijkstra vs Linearization in an arbitrary non-negative weights graph;
 * Linearization for Frobenius function;
+* Restricted Frobenius problem;
