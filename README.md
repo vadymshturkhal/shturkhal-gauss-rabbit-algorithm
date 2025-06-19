@@ -1,4 +1,4 @@
-# Shturkhal-Gauss-Rabbit algorithm description:
+## Shturkhal-Gauss-Rabbit algorithm description:
 Shturkhal-Gauss-Rabbit algorithm for solving Frobenius coin problem.
 
 ## Acknowledgments:
