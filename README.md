@@ -1,7 +1,7 @@
 # shturkhal-gauss-rabbit-algorithm
 Shturkhal-Gauss-Rabbit algorithm for solving Frobenius coin problem.
 
-## Acknowledgments
+## Acknowledgments:
 * Carl Friedrich Gauss;
 * Witold Lipski;
 * Timofey Khirianov;
