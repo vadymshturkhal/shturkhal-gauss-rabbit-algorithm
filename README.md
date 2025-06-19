@@ -15,6 +15,7 @@ Shturkhal-Gauss-Rabbit algorithm for solving Frobenius coin problem.
 * Algorithm works with (coefficients set length) > 1 and gcd(coefficients set) = 1.
 
 ## Related problems:
+* Knapsack;
 * Shortest Path;
 * Hamiltonian Path;
 * Travelling Salesman;
