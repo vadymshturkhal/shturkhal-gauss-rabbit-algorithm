@@ -1,6 +1,13 @@
 # shturkhal-gauss-rabbit-algorithm
 Shturkhal-Gauss-Rabbit algorithm for solving Frobenius coin problem.
 
+## Acknowledgment
+* Carl Friedrich Gauss;
+* Witold Lipski;
+* Timofey Khirianov;
+* Valeriy Petukhov;
+* Filipp Vecherovsky;
+
 ## Shturkhal-Gauss-Rabbit algorithm v. 6 brief analysis:
 * Time complexity is the (Frobenius number) * (modulus);
 * Memory requirements is (modulus);
