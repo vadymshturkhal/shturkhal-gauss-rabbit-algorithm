@@ -8,6 +8,8 @@
 * Timofey Khirianov;
 * Valeriy Petukhov;
 * Filipp Vecherovsky;
+* Maxim Kammerer;
+* Lev Abalkin;
 
 ## Shturkhal-Gauss-Rabbit algorithm v. 6 brief analysis:
 * Time complexity is the (Frobenius number) * (modulus);
