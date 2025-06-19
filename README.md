@@ -22,6 +22,6 @@ Shturkhal-Gauss-Rabbit algorithm for solving Frobenius coin problem.
 ## Frontier:
 * Linearization delay;
 * C-based version;
-* Linearization instead of backtracking for finding arbitrary solution;
+* Linearization instead of backtracking for finding an arbitrary solution;
 * Dijkstra vs Linearization in an arbitrary non-negatiwe weights graph;
 * Linearization for Frobenius function;
