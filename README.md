@@ -1,6 +1,6 @@
 ## Shturkhal-Gauss-Rabbit algorithm description:
 * Shturkhal-Gauss-Rabbit algorithm for solving Frobenius coin problem;
-* Algorithm is based on Shturkhal-Gauss-Rabbit graph linearization method;
+* Algorithm is based on Shturkhal-Gauss-Rabbit graph linearization method which is suitable for unbounded cases;
 * Graph linearization method is based on never-go-back approach;
 
 ## Acknowledgments:
