@@ -11,6 +11,7 @@
 * Filipp Vecherovsky;
 * Maxim Kammerer;
 * Lev Abalkin;
+* The Rabbit;
 
 ## Shturkhal-Gauss-Rabbit algorithm v. 6 brief analysis:
 * Time complexity is the (Frobenius number) * (modulus);
