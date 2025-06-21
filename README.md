@@ -25,6 +25,7 @@
 ## Notes:
 * Algorithm works with (coefficients set length) > 1 and gcd(coefficients set) = 1;
 * Time complexity (Frobenius number) * (modulus) of the solving that NP-Hard problem in general is still not enough to get Clay;
+* The Rabbit always find Hamiltonian Path of Apery set in Frobenius graph;
 
 ## Related problems:
 * Knapsack;
